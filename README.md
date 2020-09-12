@@ -7,7 +7,7 @@ This repo is our work for an exercise for the class "Parallel Systems" in the De
 In this exercise, we were tasked to find and implement an efficient parallel decomposition of the 2D heat diffusion problem. The "2D heat diffusion problem" is the problem to calculate the diffusion of heat on a surface, given that:
 
 - The surface is considered a 2D shape with no depth, which would make the analysis more complicated.
-- The surface discretely segmented in small cells. Therefore, a surface of dimensions $1024 \times 1024$ could be represented by a $1024 \times 1024$ array.
+- The surface discretely segmented in small cells. Therefore, a surface of dimensions 1024 × 1024 could be represented by a 1024 × 1024 array.
 - The surface has a pre-heated starting state, which commonly has the surface heated in the center and a gradient reduction of the heat moving further from the center. However, the starting state may follow another pattern or it may follow no pattern at all, random cells can have random heat.
 - The perimeter of the surface is axiomatically on zero degree temperature and does not get heated.
 - The temperature of every cell changes in every time step as the weighted average of the temperature of itself and its neighbors 
