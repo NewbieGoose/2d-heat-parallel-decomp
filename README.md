@@ -1,6 +1,6 @@
 # Parallel decomposition of the 2D heat diffusion problem
 
-This repo is our work for an exercise for the class "Parallel Systems" in the Department of Informatics & Telecommunications in UoA. The following is a small summary of our work, our full report is located in Readme.pdf in Greek. Some tools/scripts used were excluded or lost and the project is no longer maintained, only serves as a sample of our work. However, don't hesitate to reach us through this repo's issues or contact us at samouch@gmail.com for any inquiries.
+This repo is our work for an exercise for the class "Parallel Systems" in the Department of Informatics & Telecommunications in UoA. The following is a small summary of our work, our full report is located in Readme.pdf in Greek. Some tools/scripts used were excluded or lost and the project is no longer maintained, only serves as a sample of our work. However, don't hesitate to reach us through this repo's issues.
 
 ## Abstract
 
